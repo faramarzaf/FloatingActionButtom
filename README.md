@@ -1,6 +1,6 @@
 # FloatingActionButton  
 
-<p float="center">
+<p align="center">
   <img src="https://i.stack.imgur.com/1CLgK.png"  />
   <img src="https://developer.android.com/training/material/images/fab.png"  height="340" width="400" /> 
 </p>
